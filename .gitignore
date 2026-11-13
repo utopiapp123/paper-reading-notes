@@ -1,0 +1,7 @@
+# 本地阅读资料与生成过程文件
+*.pdf
+tmp/
+output/
+.DS_Store
+Thumbs.db
+.vscode/
