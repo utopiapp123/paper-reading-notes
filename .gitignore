@@ -1,5 +1,8 @@
-# 本地阅读资料与生成过程文件
+# 原文PDF默认本地保存；排版后的个人笔记允许放入exports
 *.pdf
+!exports/**/*.pdf
+
+# 生成过程文件
 tmp/
 output/
 .DS_Store
